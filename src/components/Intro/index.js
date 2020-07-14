@@ -11,10 +11,10 @@ const Intro = () => (
       </ImageContainer>
       <IntroContainer>
         <header>
-          <h1>Hola Soy  <b> <br/>Máxima Ozuna </b></h1>
+          <h1>Hola soy  <b> <br/>Máxima Ozuna </b></h1>
           <h3>Ingeniera de Software- Republica Dominicana</h3>
         </header>
-        <p>Me encanta aprender cosas nuevas, conocer de todo un poco, llevar la vida siempre con una sonrisa y agradecer por todo cada dia de mi vida. </p>
+        <p>Me encanta aprender cosas nuevas, leer,coser,ver doramas, llevar la vida siempre con una sonrisa y agradecer por todo cada dia de mi vida. </p>
         <p>Un dia sin sonreir es un dia perdido. </p>
       </IntroContainer>
     </Wrapper>
