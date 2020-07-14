@@ -11,8 +11,8 @@ const Works= () => (
     <>
         <Wrapper>
             <Content>
-                <h1>Work</h1>
-                <p>Selected web, mobile, video projects...</p>
+                <h1>Habilidades</h1>
+                <p>Lenguajes,tecnologias y mas</p>
                 <WorksContainer>
                     <WorkItens/>
                 </WorksContainer>
@@ -30,7 +30,7 @@ const WorkItens = () => {
             node {
               childImageSharp {
                 id
-                fluid(maxWidth: 1000, quality: 100) {
+                fluid(maxWidth: 100, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
               }

@@ -13,6 +13,7 @@ export const WorkItem = styled.div`
     width:100%;
     margin-left: -12px;
     margin-right: -12px;
+    
 
     a {
         width: 25%;
@@ -34,4 +35,5 @@ export const WorkItem = styled.div`
 export const WorkImage = styled(Img)`
     height: 100%;
     width: 100%;
+    
 `
