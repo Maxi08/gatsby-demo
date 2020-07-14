@@ -11,11 +11,11 @@ const Intro = () => (
       </ImageContainer>
       <IntroContainer>
         <header>
-          <h1>Hello my name is  <b> <br/>Jane Doe</b></h1>
-          <h3>DIGITAL DESIGNER - NEW ZEALAND</h3>
+          <h1>Hola Soy  <b> <br/>Máxima Ozuna </b></h1>
+          <h3>Ingeniera de Software- Republica Dominicana</h3>
         </header>
-        <p>A free, fully responsive gatsby starter template designed by <a target="blank"  href="https://www.twitter.com/matheusquintaes">@matheusquintaes</a> </p>
-        <p>You can learn more <a target="blank" href="https://www.gatsbyjs.org/docs/starters/"> about the starters here</a></p>
+        <p>Me encanta aprender cosas nuevas, conocer de todo un poco, llevar la vida siempre con una sonrisa y agradecer por todo cada dia de mi vida. </p>
+        <p>Un dia sin sonreir es un dia perdido. </p>
       </IntroContainer>
     </Wrapper>
     </> 
